@@ -1,0 +1,10 @@
+## Exemple Meteo
+
+##
+On reconnaît le Module Pattern vu dans le cours sur Node
+
+##
+Il n'y a pas de changement car il n'y a pas de constructeur de Meteo qui prenne en compte le champ ville
+
+##
+On a une erreur car l'on doit créer un objet Meteo en lui passant 2 paramètres, et non aucun
